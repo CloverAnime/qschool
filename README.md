@@ -1,0 +1,2 @@
+# qschool
+Created with CodeSandbox
