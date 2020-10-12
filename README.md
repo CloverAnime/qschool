@@ -1,2 +1,2 @@
 # qschool
-Created with CodeSandbox
+Created by Evara
